@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+header {
+    background-color: white;
+    box-shadow: 0px 2px 10px 0px #333;
+}
+
+.title {
+    display: inline;
+    font-family: 'Ropa Sans';
+    font-size: 30px;
+    line-height: 32px;
+    color: #777777;
+}
+
+#title-span {
+    font-family: 'Ropa Sans';
+    font-size: 10px;
+    line-height: 11px;
+    color: #AAAAAA
+}
+
+.banner {
+    background-image: url("../images/Rectangle_3.png");
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
